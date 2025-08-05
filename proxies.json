@@ -1,0 +1,8 @@
+[
+    {
+      "protocol": "http",
+      "host": "proxy1.example.com",
+      "port": 8080,
+      "auth": "username:password"
+    }
+  ]
