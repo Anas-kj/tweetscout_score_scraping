@@ -13,17 +13,6 @@ A high-performance, modular web scraper built with Node.js and Puppeteer for ext
 - **Comprehensive Logging**: Detailed progress tracking and error reporting
 - **Dual Modes**: Manual single-browser mode or parallel proxy mode
 
-## 📋 Table of Contents
-
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)      
-- [Architecture](#architecture)
-- [API Documentation](#api-documentation)
-- [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🛠️ Installation
 
 ### Prerequisites
