@@ -23,10 +23,6 @@ A high-performance, modular web scraper built with Node.js and Puppeteer for ext
 ### Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/tweetscout-parallel-scraper.git
-cd tweetscout-parallel-scraper
-
 # Install dependencies
 npm install
 
@@ -34,3 +30,8 @@ npm install
 mkdir config
 touch config/accountConfig.js
 touch config/proxies.js
+
+# then run the main.js file
+node main.js  // manual
+or
+node main.js --proxy //for using proxies
