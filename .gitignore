@@ -1,0 +1,6 @@
+node_modules/
+cookies.json
+tweetscout_scores.json
+tweetscout_cookies.json
+tweetscout_results*.json
+config/
